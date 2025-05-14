@@ -1,3 +1,10 @@
 [?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;25H(B[0;1m[37m[41m[ Directory '*' does not exist ][39;49m(B[m(B[0;7mFile ...it.sh is being edited by cry (with nano 5.4, PID 2961572); open anyway? [23;1H Y(B[m Yes[24d(B[0;7m N(B[m No[24;17H(B[0;7m^C(B[m Cancel[22;80H[?12l[?25h[?25l[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004lFrom https://github.com/kangmutan/crypto-tracker
  * branch            master     -> FETCH_HEAD
 Already up to date.
+[master 2ce2401] Log Crypto Assets update at Wed May 14 15:16:02 UTC 2025
+ 2 files changed, 4 insertions(+)
+ create mode 100644 cron.log
+To https://github.com/kangmutan/crypto-tracker.git
+   c0a3e3b..2ce2401  master -> master
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
